@@ -4,6 +4,7 @@ Create container image that’s has Linux  and other basic configuration require
   When we launch the job it should automatically starts job on slave based on the label provided for dynamic approach.
   Create a job chain of job1 & job2 using build pipeline plugin in Jenkins.
   
+Jenkins has been configured in previous task refer to it
 **Job1 :**
   
   Pull  the Github repo automatically when some developers push repo to Github and perform the following operations as:
